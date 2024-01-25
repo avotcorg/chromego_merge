@@ -41,7 +41,7 @@ proxies:
   - 1.1.1.1
   - 8.8.8.8
   dialer-proxy: WARP前置节点
-- name: 油管绵阿羊_Canada_vless_01
+- name: AVOTC_Canada_vless_01
   type: vless
   server: dongtaiwang3.com
   port: 443
@@ -54,7 +54,7 @@ proxies:
     headers:
       host: dongtaiwang.dtku47.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_United States_vless_02
+- name: AVOTC_United States_vless_02
   type: vless
   server: cu.dongtaiwang3.com
   port: 443
@@ -67,7 +67,7 @@ proxies:
     headers:
       host: fr.freeh1.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_France_ss_11
+- name: AVOTC_France_ss_11
   type: ss
   server: 62.210.103.0
   port: 12299
@@ -87,7 +87,7 @@ proxies:
     min-streams: '16'
     statistic: true
     only-tcp: false
-- name: 油管绵阿羊_United States_ss_12
+- name: AVOTC_United States_ss_12
   type: ss
   server: 167.160.90.252
   port: 8883
@@ -107,7 +107,7 @@ proxies:
     min-streams: '16'
     statistic: true
     only-tcp: false
-- name: 油管绵阿羊_United States_vless_21
+- name: AVOTC_United States_vless_21
   type: vless
   server: cu.dongtaiwang3.com
   port: 443
@@ -120,7 +120,7 @@ proxies:
     headers:
       host: v2ray3.freegradely.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_United States_vless_31
+- name: AVOTC_United States_vless_31
   type: vless
   server: cu.dongtaiwang3.com
   port: 443
@@ -133,7 +133,7 @@ proxies:
     headers:
       host: fr.freeh1.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_United States_vmess_41
+- name: AVOTC_None_vmess_41
   type: vmess
   server: cm.dongtaiwang3.com
   port: 443
@@ -148,7 +148,7 @@ proxies:
     path: /gzogws
     headers:
       host: xray1.freeh1.xyz
-- name: 油管绵阿羊_Canada_vmess_51
+- name: AVOTC_Canada_vmess_51
   type: vmess
   server: dongtaiwang2.com
   port: 443
@@ -163,7 +163,7 @@ proxies:
     path: /gzogws
     headers:
       host: xray1.freeh1.xyz
-- name: 油管绵阿羊_Taiwan_hysteria_61
+- name: AVOTC_Taiwan_hysteria_61
   type: hysteria
   server: www2.dtku48.xyz
   port: 22334
@@ -174,14 +174,14 @@ proxies:
   up: 11 Mbps
   down: 55 Mbps
   skip-cert-verify: true
-- name: 油管绵阿羊_France_hysteria2_71
+- name: AVOTC_France_hysteria2_71
   type: hysteria2
   server: 51.158.54.46
   port: 44550
   password: dongtaiwang.com
   sni: bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hysteria2_81
+- name: AVOTC_United States_hysteria2_81
   type: hysteria2
   server: 45.150.165.84
   port: 8881
@@ -191,7 +191,7 @@ proxies:
   skip-cert-verify: true
   up: 2 Mbps
   down: 10 Mbps
-- name: 油管绵阿羊_Taiwan_hysteria_91
+- name: AVOTC_Taiwan_hysteria_91
   type: hysteria
   server: www.dtku50.xyz
   port: 32408
@@ -203,7 +203,7 @@ proxies:
   auth_str: dongtaiwang.com
   up: 2
   down: 10
-- name: 油管绵阿羊_France_hy_0
+- name: AVOTC_France_hy_0
   type: hysteria
   server: 51.158.54.46
   port: 55396
@@ -217,7 +217,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy_1
+- name: AVOTC_United States_hy_1
   type: hysteria
   server: 173.234.25.52
   port: 30072
@@ -231,7 +231,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy_2
+- name: AVOTC_United States_hy_2
   type: hysteria
   server: 108.181.22.239
   port: 39967
@@ -245,7 +245,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy_3
+- name: AVOTC_United States_hy_3
   type: hysteria
   server: 167.160.91.115
   port: 41189
@@ -259,7 +259,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_France_hy2_0
+- name: AVOTC_France_hy2_0
   type: hysteria2
   server: 62.210.101.0
   port: 52465
@@ -267,7 +267,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_1
+- name: AVOTC_United States_hy2_1
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -275,7 +275,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_2
+- name: AVOTC_United States_hy2_2
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -283,7 +283,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_3
+- name: AVOTC_United States_hy2_3
   type: hysteria2
   server: 108.181.24.77
   port: 18775
@@ -312,72 +312,72 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - 油管绵阿羊_Canada_vless_01
-  - 油管绵阿羊_United States_vless_02
-  - 油管绵阿羊_France_ss_11
-  - 油管绵阿羊_United States_ss_12
-  - 油管绵阿羊_United States_vless_21
-  - 油管绵阿羊_United States_vless_31
-  - 油管绵阿羊_United States_vmess_41
-  - 油管绵阿羊_Canada_vmess_51
-  - 油管绵阿羊_Taiwan_hysteria_61
-  - 油管绵阿羊_France_hysteria2_71
-  - 油管绵阿羊_United States_hysteria2_81
-  - 油管绵阿羊_Taiwan_hysteria_91
-  - 油管绵阿羊_France_hy_0
-  - 油管绵阿羊_United States_hy_1
-  - 油管绵阿羊_United States_hy_2
-  - 油管绵阿羊_United States_hy_3
-  - 油管绵阿羊_France_hy2_0
-  - 油管绵阿羊_United States_hy2_1
-  - 油管绵阿羊_United States_hy2_2
-  - 油管绵阿羊_United States_hy2_3
+  - AVOTC_Canada_vless_01
+  - AVOTC_United States_vless_02
+  - AVOTC_France_ss_11
+  - AVOTC_United States_ss_12
+  - AVOTC_United States_vless_21
+  - AVOTC_United States_vless_31
+  - AVOTC_None_vmess_41
+  - AVOTC_Canada_vmess_51
+  - AVOTC_Taiwan_hysteria_61
+  - AVOTC_France_hysteria2_71
+  - AVOTC_United States_hysteria2_81
+  - AVOTC_Taiwan_hysteria_91
+  - AVOTC_France_hy_0
+  - AVOTC_United States_hy_1
+  - AVOTC_United States_hy_2
+  - AVOTC_United States_hy_3
+  - AVOTC_France_hy2_0
+  - AVOTC_United States_hy2_1
+  - AVOTC_United States_hy2_2
+  - AVOTC_United States_hy2_3
 - name: 手动选择
   type: select
   proxies:
-  - 油管绵阿羊_Canada_vless_01
-  - 油管绵阿羊_United States_vless_02
-  - 油管绵阿羊_France_ss_11
-  - 油管绵阿羊_United States_ss_12
-  - 油管绵阿羊_United States_vless_21
-  - 油管绵阿羊_United States_vless_31
-  - 油管绵阿羊_United States_vmess_41
-  - 油管绵阿羊_Canada_vmess_51
-  - 油管绵阿羊_Taiwan_hysteria_61
-  - 油管绵阿羊_France_hysteria2_71
-  - 油管绵阿羊_United States_hysteria2_81
-  - 油管绵阿羊_Taiwan_hysteria_91
-  - 油管绵阿羊_France_hy_0
-  - 油管绵阿羊_United States_hy_1
-  - 油管绵阿羊_United States_hy_2
-  - 油管绵阿羊_United States_hy_3
-  - 油管绵阿羊_France_hy2_0
-  - 油管绵阿羊_United States_hy2_1
-  - 油管绵阿羊_United States_hy2_2
-  - 油管绵阿羊_United States_hy2_3
+  - AVOTC_Canada_vless_01
+  - AVOTC_United States_vless_02
+  - AVOTC_France_ss_11
+  - AVOTC_United States_ss_12
+  - AVOTC_United States_vless_21
+  - AVOTC_United States_vless_31
+  - AVOTC_None_vmess_41
+  - AVOTC_Canada_vmess_51
+  - AVOTC_Taiwan_hysteria_61
+  - AVOTC_France_hysteria2_71
+  - AVOTC_United States_hysteria2_81
+  - AVOTC_Taiwan_hysteria_91
+  - AVOTC_France_hy_0
+  - AVOTC_United States_hy_1
+  - AVOTC_United States_hy_2
+  - AVOTC_United States_hy_3
+  - AVOTC_France_hy2_0
+  - AVOTC_United States_hy2_1
+  - AVOTC_United States_hy2_2
+  - AVOTC_United States_hy2_3
 - name: 负载均衡
   type: load-balance
   proxies:
-  - 油管绵阿羊_Canada_vless_01
-  - 油管绵阿羊_United States_vless_02
-  - 油管绵阿羊_France_ss_11
-  - 油管绵阿羊_United States_ss_12
-  - 油管绵阿羊_United States_vless_21
-  - 油管绵阿羊_United States_vless_31
-  - 油管绵阿羊_United States_vmess_41
-  - 油管绵阿羊_Canada_vmess_51
-  - 油管绵阿羊_Taiwan_hysteria_61
-  - 油管绵阿羊_France_hysteria2_71
-  - 油管绵阿羊_United States_hysteria2_81
-  - 油管绵阿羊_Taiwan_hysteria_91
-  - 油管绵阿羊_France_hy_0
-  - 油管绵阿羊_United States_hy_1
-  - 油管绵阿羊_United States_hy_2
-  - 油管绵阿羊_United States_hy_3
-  - 油管绵阿羊_France_hy2_0
-  - 油管绵阿羊_United States_hy2_1
-  - 油管绵阿羊_United States_hy2_2
-  - 油管绵阿羊_United States_hy2_3
+  - AVOTC_Canada_vless_01
+  - AVOTC_United States_vless_02
+  - AVOTC_France_ss_11
+  - AVOTC_United States_ss_12
+  - AVOTC_United States_vless_21
+  - AVOTC_United States_vless_31
+  - AVOTC_None_vmess_41
+  - AVOTC_Canada_vmess_51
+  - AVOTC_Taiwan_hysteria_61
+  - AVOTC_France_hysteria2_71
+  - AVOTC_United States_hysteria2_81
+  - AVOTC_Taiwan_hysteria_91
+  - AVOTC_France_hy_0
+  - AVOTC_United States_hy_1
+  - AVOTC_United States_hy_2
+  - AVOTC_United States_hy_3
+  - AVOTC_France_hy2_0
+  - AVOTC_United States_hy2_1
+  - AVOTC_United States_hy2_2
+  - AVOTC_United States_hy2_3
   url: http://www.gstatic.com/generate_204
   interval: 300
   strategy: round-robin
