@@ -65,6 +65,19 @@ proxies:
   reduce-rtt: true
   udp-relay-mode: native
   congestion-controller: bbr
+- name: AVOTC_Taiwan_vmess_12
+  type: vmess
+  server: www.dtku40.xyz
+  port: 40011
+  cipher: auto
+  uuid: c506bccb-06b8-4f1a-bc3e-41ed4929c003
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: ''
+  network: ws
+  ws-opts:
+    path: /soh5qvuQ/
 - name: AVOTC_United States_vless_21
   type: vless
   server: 108.181.5.18
@@ -1863,10 +1876,10 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: AVOTC_United States_hy2_3
+- name: AVOTC_France_hy2_3
   type: hysteria2
-  server: 108.181.24.77
-  port: 43656
+  server: 51.159.77.198
+  port: 29277
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1936,6 +1949,7 @@ proxy-groups:
   proxies:
   - AVOTC_United States_hysteria2_01
   - AVOTC_United States_tuic_11
+  - AVOTC_Taiwan_vmess_12
   - AVOTC_United States_vless_21
   - AVOTC_United States_tuic_31
   - AVOTC_United States_vless_41
@@ -2087,7 +2101,7 @@ proxy-groups:
   - AVOTC_France_hy2_0
   - AVOTC_United States_hy2_1
   - AVOTC_France_hy2_2
-  - AVOTC_United States_hy2_3
+  - AVOTC_France_hy2_3
   - AVOTC_France_reality_1
   - AVOTC_France_reality_2
   - AVOTC_France_reality_3
@@ -2096,6 +2110,7 @@ proxy-groups:
   proxies:
   - AVOTC_United States_hysteria2_01
   - AVOTC_United States_tuic_11
+  - AVOTC_Taiwan_vmess_12
   - AVOTC_United States_vless_21
   - AVOTC_United States_tuic_31
   - AVOTC_United States_vless_41
@@ -2247,7 +2262,7 @@ proxy-groups:
   - AVOTC_France_hy2_0
   - AVOTC_United States_hy2_1
   - AVOTC_France_hy2_2
-  - AVOTC_United States_hy2_3
+  - AVOTC_France_hy2_3
   - AVOTC_France_reality_1
   - AVOTC_France_reality_2
   - AVOTC_France_reality_3
@@ -2256,6 +2271,7 @@ proxy-groups:
   proxies:
   - AVOTC_United States_hysteria2_01
   - AVOTC_United States_tuic_11
+  - AVOTC_Taiwan_vmess_12
   - AVOTC_United States_vless_21
   - AVOTC_United States_tuic_31
   - AVOTC_United States_vless_41
@@ -2407,7 +2423,7 @@ proxy-groups:
   - AVOTC_France_hy2_0
   - AVOTC_United States_hy2_1
   - AVOTC_France_hy2_2
-  - AVOTC_United States_hy2_3
+  - AVOTC_France_hy2_3
   - AVOTC_France_reality_1
   - AVOTC_France_reality_2
   - AVOTC_France_reality_3
