@@ -161,7 +161,7 @@ proxies:
     path: 0e5da13a-b148-4889-9d72-ad1d9d5aa9ad-vm
     headers:
       host: widescreen-instruction-breakdown-postage.trycloudflare.com
-- name: AVOTC_United States_vmess_09
+- name: AVOTC_None_vmess_09
   type: vmess
   server: yh1.dtku41.xyz
   port: 8080
@@ -221,7 +221,7 @@ proxies:
     path: 0e5da13a-b148-4889-9d72-ad1d9d5aa9ad-vm
     headers:
       host: widescreen-instruction-breakdown-postage.trycloudflare.com
-- name: AVOTC_None_vmess_013
+- name: AVOTC_United States_vmess_013
   type: vmess
   server: yh2.dtku41.xyz
   port: 8080
@@ -236,7 +236,7 @@ proxies:
     path: 9084653a-ee34-4293-979e-7c2b50dffb84-vm
     headers:
       host: configured-creek-relating-theater.trycloudflare.com
-- name: AVOTC_United States_vmess_014
+- name: AVOTC_None_vmess_014
   type: vmess
   server: yh2.dtku41.xyz
   port: 8080
@@ -2859,7 +2859,7 @@ proxies:
     path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_United States_vmess_56
+- name: AVOTC_None_vmess_56
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -2874,7 +2874,7 @@ proxies:
     path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm
     headers:
       host: nest-emily-healing-h.trycloudflare.com
-- name: AVOTC_United States_vmess_57
+- name: AVOTC_None_vmess_57
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -2904,7 +2904,7 @@ proxies:
     path: 41eeccfd-18e6-40b3-933d-c7000120ec2c-vm
     headers:
       host: larger-marketing-amounts-skin.trycloudflare.com
-- name: AVOTC_United States_vmess_59
+- name: AVOTC_None_vmess_59
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -2919,7 +2919,7 @@ proxies:
     path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_United States_vmess_510
+- name: AVOTC_None_vmess_510
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -3213,12 +3213,12 @@ proxy-groups:
   - AVOTC_None_vmess_06
   - AVOTC_None_vmess_07
   - AVOTC_None_vmess_08
-  - AVOTC_United States_vmess_09
+  - AVOTC_None_vmess_09
   - AVOTC_None_vmess_010
   - AVOTC_None_vmess_011
   - AVOTC_None_vmess_012
-  - AVOTC_None_vmess_013
-  - AVOTC_United States_vmess_014
+  - AVOTC_United States_vmess_013
+  - AVOTC_None_vmess_014
   - AVOTC_None_vmess_015
   - AVOTC_None_vmess_016
   - AVOTC_United States_vless_11
@@ -3393,11 +3393,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_United States_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_None_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_None_vmess_58
-  - AVOTC_United States_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_59
+  - AVOTC_None_vmess_510
   - AVOTC_United States_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
@@ -3429,12 +3429,12 @@ proxy-groups:
   - AVOTC_None_vmess_06
   - AVOTC_None_vmess_07
   - AVOTC_None_vmess_08
-  - AVOTC_United States_vmess_09
+  - AVOTC_None_vmess_09
   - AVOTC_None_vmess_010
   - AVOTC_None_vmess_011
   - AVOTC_None_vmess_012
-  - AVOTC_None_vmess_013
-  - AVOTC_United States_vmess_014
+  - AVOTC_United States_vmess_013
+  - AVOTC_None_vmess_014
   - AVOTC_None_vmess_015
   - AVOTC_None_vmess_016
   - AVOTC_United States_vless_11
@@ -3609,11 +3609,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_United States_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_None_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_None_vmess_58
-  - AVOTC_United States_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_59
+  - AVOTC_None_vmess_510
   - AVOTC_United States_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
@@ -3645,12 +3645,12 @@ proxy-groups:
   - AVOTC_None_vmess_06
   - AVOTC_None_vmess_07
   - AVOTC_None_vmess_08
-  - AVOTC_United States_vmess_09
+  - AVOTC_None_vmess_09
   - AVOTC_None_vmess_010
   - AVOTC_None_vmess_011
   - AVOTC_None_vmess_012
-  - AVOTC_None_vmess_013
-  - AVOTC_United States_vmess_014
+  - AVOTC_United States_vmess_013
+  - AVOTC_None_vmess_014
   - AVOTC_None_vmess_015
   - AVOTC_None_vmess_016
   - AVOTC_United States_vless_11
@@ -3825,11 +3825,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_United States_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_None_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_None_vmess_58
-  - AVOTC_United States_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_59
+  - AVOTC_None_vmess_510
   - AVOTC_United States_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
