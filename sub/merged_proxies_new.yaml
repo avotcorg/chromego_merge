@@ -160,7 +160,7 @@ proxies:
     path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
     headers:
       host: uh-lawyers-instruments-kernel.trycloudflare.com
-- name: AVOTC_None_vmess_010
+- name: AVOTC_United States_vmess_010
   type: vmess
   server: yh1.dtku41.xyz
   port: 8080
@@ -205,7 +205,7 @@ proxies:
     path: 55021a7c-bd6c-418e-be95-ceac8ba27b45-vm
     headers:
       host: widescreen-instruction-breakdown-postage.trycloudflare.com
-- name: AVOTC_None_vmess_013
+- name: AVOTC_United States_vmess_013
   type: vmess
   server: yh2.dtku41.xyz
   port: 8080
@@ -352,7 +352,7 @@ proxies:
     path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
     headers:
       host: uh-lawyers-instruments-kernel.trycloudflare.com
-- name: AVOTC_None_vmess_32
+- name: AVOTC_United States_vmess_32
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -517,7 +517,7 @@ proxies:
     path: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a-vm
     headers:
       host: larger-marketing-amounts-skin.trycloudflare.com
-- name: AVOTC_None_vmess_55
+- name: AVOTC_United States_vmess_55
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -562,7 +562,7 @@ proxies:
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
     headers:
       host: pcs-referenced-camera-concerns.trycloudflare.com
-- name: AVOTC_None_vmess_58
+- name: AVOTC_United States_vmess_58
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -607,7 +607,7 @@ proxies:
     path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
     headers:
       host: nest-emily-healing-h.trycloudflare.com
-- name: AVOTC_United States_vmess_511
+- name: AVOTC_None_vmess_511
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -652,7 +652,7 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_United States_vmess_514
+- name: AVOTC_None_vmess_514
   type: vmess
   server: yh3.freeh1.xyz
   port: 8080
@@ -845,10 +845,10 @@ proxy-groups:
   - AVOTC_None_vmess_07
   - AVOTC_None_vmess_08
   - AVOTC_United States_vmess_09
-  - AVOTC_None_vmess_010
+  - AVOTC_United States_vmess_010
   - AVOTC_None_vmess_011
   - AVOTC_None_vmess_012
-  - AVOTC_None_vmess_013
+  - AVOTC_United States_vmess_013
   - AVOTC_None_vmess_014
   - AVOTC_United States_vmess_015
   - AVOTC_None_vmess_016
@@ -858,7 +858,7 @@ proxy-groups:
   - AVOTC_None_vmess_14
   - AVOTC_United States_tuic_21
   - AVOTC_United States_vmess_31
-  - AVOTC_None_vmess_32
+  - AVOTC_United States_vmess_32
   - AVOTC_United States_vmess_33
   - AVOTC_United States_vmess_34
   - AVOTC_Canada_vmess_41
@@ -869,16 +869,16 @@ proxy-groups:
   - AVOTC_None_vmess_52
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
-  - AVOTC_None_vmess_55
+  - AVOTC_United States_vmess_55
   - AVOTC_None_vmess_56
   - AVOTC_None_vmess_57
-  - AVOTC_None_vmess_58
+  - AVOTC_United States_vmess_58
   - AVOTC_None_vmess_59
   - AVOTC_None_vmess_510
-  - AVOTC_United States_vmess_511
+  - AVOTC_None_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
-  - AVOTC_United States_vmess_514
+  - AVOTC_None_vmess_514
   - AVOTC_United States_vmess_515
   - AVOTC_United States_vmess_516
   - AVOTC_Taiwan_hysteria_61
@@ -908,10 +908,10 @@ proxy-groups:
   - AVOTC_None_vmess_07
   - AVOTC_None_vmess_08
   - AVOTC_United States_vmess_09
-  - AVOTC_None_vmess_010
+  - AVOTC_United States_vmess_010
   - AVOTC_None_vmess_011
   - AVOTC_None_vmess_012
-  - AVOTC_None_vmess_013
+  - AVOTC_United States_vmess_013
   - AVOTC_None_vmess_014
   - AVOTC_United States_vmess_015
   - AVOTC_None_vmess_016
@@ -921,7 +921,7 @@ proxy-groups:
   - AVOTC_None_vmess_14
   - AVOTC_United States_tuic_21
   - AVOTC_United States_vmess_31
-  - AVOTC_None_vmess_32
+  - AVOTC_United States_vmess_32
   - AVOTC_United States_vmess_33
   - AVOTC_United States_vmess_34
   - AVOTC_Canada_vmess_41
@@ -932,16 +932,16 @@ proxy-groups:
   - AVOTC_None_vmess_52
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
-  - AVOTC_None_vmess_55
+  - AVOTC_United States_vmess_55
   - AVOTC_None_vmess_56
   - AVOTC_None_vmess_57
-  - AVOTC_None_vmess_58
+  - AVOTC_United States_vmess_58
   - AVOTC_None_vmess_59
   - AVOTC_None_vmess_510
-  - AVOTC_United States_vmess_511
+  - AVOTC_None_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
-  - AVOTC_United States_vmess_514
+  - AVOTC_None_vmess_514
   - AVOTC_United States_vmess_515
   - AVOTC_United States_vmess_516
   - AVOTC_Taiwan_hysteria_61
