@@ -41,66 +41,17 @@ proxies:
   - 1.1.1.1
   - 8.8.8.8
   dialer-proxy: WARP前置节点
-- name: AVOTC_None_vmess_01
-  type: vmess
-  server: fbi.gov
-  port: 8080
-  cipher: auto
-  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
-  alterId: 0
-  tls: false
+- name: AVOTC_United States_hysteria2_01
+  type: hysteria2
+  server: 74.63.233.74
+  port: 33445
+  password: dongtaiwang.com
+  alpn:
+  - h3
+  sni: www.bing.com
   skip-cert-verify: true
-  servername: pcs-referenced-camera-concerns.trycloudflare.com
-  network: ws
-  ws-opts:
-    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
-    headers:
-      host: pcs-referenced-camera-concerns.trycloudflare.com
-- name: AVOTC_None_vmess_02
-  type: vmess
-  server: fbi.gov
-  port: 8080
-  cipher: auto
-  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: bibliographic-sword-sequence-advertisers.trycloudflare.com
-  network: ws
-  ws-opts:
-    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
-    headers:
-      host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_None_vmess_03
-  type: vmess
-  server: fbi.gov
-  port: 8080
-  cipher: auto
-  uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: nest-emily-healing-h.trycloudflare.com
-  network: ws
-  ws-opts:
-    path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
-    headers:
-      host: nest-emily-healing-h.trycloudflare.com
-- name: AVOTC_None_vmess_04
-  type: vmess
-  server: fbi.gov
-  port: 8080
-  cipher: auto
-  uuid: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: larger-marketing-amounts-skin.trycloudflare.com
-  network: ws
-  ws-opts:
-    path: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a-vm
-    headers:
-      host: larger-marketing-amounts-skin.trycloudflare.com
+  up: 5 Mbps
+  down: 20 Mbps
 - name: AVOTC_None_vmess_11
   type: vmess
   server: fbi.gov
@@ -236,7 +187,7 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_None_vmess_26
+- name: AVOTC_United States_vmess_26
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -251,7 +202,7 @@ proxies:
     path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
     headers:
       host: nest-emily-healing-h.trycloudflare.com
-- name: AVOTC_None_vmess_27
+- name: AVOTC_United States_vmess_27
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -386,7 +337,7 @@ proxies:
     path: 9b196b50-37f2-4f4b-b175-06273adc6207-vm
     headers:
       host: technological-mel-fill-decide.trycloudflare.com
-- name: AVOTC_United States_vmess_34
+- name: AVOTC_None_vmess_34
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -536,7 +487,7 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_None_vmess_56
+- name: AVOTC_United States_vmess_56
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -551,7 +502,7 @@ proxies:
     path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
     headers:
       host: nest-emily-healing-h.trycloudflare.com
-- name: AVOTC_United States_vmess_57
+- name: AVOTC_None_vmess_57
   type: vmess
   server: yh1.freeh1.xyz
   port: 8080
@@ -596,7 +547,7 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: AVOTC_United States_vmess_510
+- name: AVOTC_None_vmess_510
   type: vmess
   server: yh2.freeh1.xyz
   port: 8080
@@ -855,10 +806,7 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - AVOTC_None_vmess_01
-  - AVOTC_None_vmess_02
-  - AVOTC_None_vmess_03
-  - AVOTC_None_vmess_04
+  - AVOTC_United States_hysteria2_01
   - AVOTC_None_vmess_11
   - AVOTC_None_vmess_12
   - AVOTC_None_vmess_13
@@ -868,8 +816,8 @@ proxy-groups:
   - AVOTC_United States_vmess_23
   - AVOTC_None_vmess_24
   - AVOTC_None_vmess_25
-  - AVOTC_None_vmess_26
-  - AVOTC_None_vmess_27
+  - AVOTC_United States_vmess_26
+  - AVOTC_United States_vmess_27
   - AVOTC_United States_vmess_28
   - AVOTC_United States_vmess_29
   - AVOTC_United States_vmess_210
@@ -878,7 +826,7 @@ proxy-groups:
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
   - AVOTC_None_vmess_33
-  - AVOTC_United States_vmess_34
+  - AVOTC_None_vmess_34
   - AVOTC_Canada_vmess_41
   - AVOTC_Canada_vmess_42
   - AVOTC_Canada_vmess_43
@@ -888,11 +836,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_None_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_United States_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_United States_vmess_58
   - AVOTC_None_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_510
   - AVOTC_None_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
@@ -914,10 +862,7 @@ proxy-groups:
 - name: 手动选择
   type: select
   proxies:
-  - AVOTC_None_vmess_01
-  - AVOTC_None_vmess_02
-  - AVOTC_None_vmess_03
-  - AVOTC_None_vmess_04
+  - AVOTC_United States_hysteria2_01
   - AVOTC_None_vmess_11
   - AVOTC_None_vmess_12
   - AVOTC_None_vmess_13
@@ -927,8 +872,8 @@ proxy-groups:
   - AVOTC_United States_vmess_23
   - AVOTC_None_vmess_24
   - AVOTC_None_vmess_25
-  - AVOTC_None_vmess_26
-  - AVOTC_None_vmess_27
+  - AVOTC_United States_vmess_26
+  - AVOTC_United States_vmess_27
   - AVOTC_United States_vmess_28
   - AVOTC_United States_vmess_29
   - AVOTC_United States_vmess_210
@@ -937,7 +882,7 @@ proxy-groups:
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
   - AVOTC_None_vmess_33
-  - AVOTC_United States_vmess_34
+  - AVOTC_None_vmess_34
   - AVOTC_Canada_vmess_41
   - AVOTC_Canada_vmess_42
   - AVOTC_Canada_vmess_43
@@ -947,11 +892,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_None_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_United States_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_United States_vmess_58
   - AVOTC_None_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_510
   - AVOTC_None_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
@@ -973,10 +918,7 @@ proxy-groups:
 - name: 负载均衡
   type: load-balance
   proxies:
-  - AVOTC_None_vmess_01
-  - AVOTC_None_vmess_02
-  - AVOTC_None_vmess_03
-  - AVOTC_None_vmess_04
+  - AVOTC_United States_hysteria2_01
   - AVOTC_None_vmess_11
   - AVOTC_None_vmess_12
   - AVOTC_None_vmess_13
@@ -986,8 +928,8 @@ proxy-groups:
   - AVOTC_United States_vmess_23
   - AVOTC_None_vmess_24
   - AVOTC_None_vmess_25
-  - AVOTC_None_vmess_26
-  - AVOTC_None_vmess_27
+  - AVOTC_United States_vmess_26
+  - AVOTC_United States_vmess_27
   - AVOTC_United States_vmess_28
   - AVOTC_United States_vmess_29
   - AVOTC_United States_vmess_210
@@ -996,7 +938,7 @@ proxy-groups:
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
   - AVOTC_None_vmess_33
-  - AVOTC_United States_vmess_34
+  - AVOTC_None_vmess_34
   - AVOTC_Canada_vmess_41
   - AVOTC_Canada_vmess_42
   - AVOTC_Canada_vmess_43
@@ -1006,11 +948,11 @@ proxy-groups:
   - AVOTC_None_vmess_53
   - AVOTC_None_vmess_54
   - AVOTC_None_vmess_55
-  - AVOTC_None_vmess_56
-  - AVOTC_United States_vmess_57
+  - AVOTC_United States_vmess_56
+  - AVOTC_None_vmess_57
   - AVOTC_United States_vmess_58
   - AVOTC_None_vmess_59
-  - AVOTC_United States_vmess_510
+  - AVOTC_None_vmess_510
   - AVOTC_None_vmess_511
   - AVOTC_United States_vmess_512
   - AVOTC_United States_vmess_513
