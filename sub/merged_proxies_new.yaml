@@ -51,7 +51,7 @@ proxies:
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
     headers:
       host: concentrations-taxi-about-recognised.trycloudflare.com
-- name: AVOTC_United States_vmess_12
+- name: AVOTC_None_vmess_12
   type: vmess
   server: yh1.dtku41.xyz
   port: 8080
@@ -359,7 +359,7 @@ proxy-groups:
   - DIRECT
   - AVOTC_United States_hysteria2_01
   - AVOTC_None_vmess_11
-  - AVOTC_United States_vmess_12
+  - AVOTC_None_vmess_12
   - AVOTC_United States_vmess_13
   - AVOTC_None_vmess_14
   - AVOTC_United States_vless_21
@@ -386,7 +386,7 @@ proxy-groups:
   proxies:
   - AVOTC_United States_hysteria2_01
   - AVOTC_None_vmess_11
-  - AVOTC_United States_vmess_12
+  - AVOTC_None_vmess_12
   - AVOTC_United States_vmess_13
   - AVOTC_None_vmess_14
   - AVOTC_United States_vless_21
