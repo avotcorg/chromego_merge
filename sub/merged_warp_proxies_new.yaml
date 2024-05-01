@@ -78,7 +78,7 @@ proxies:
     path: /argox-vl?ed=2048
     headers:
       host: giving-hide-provisions-corrected.trycloudflare.com
-- name: AVOTC_United States_vless_22
+- name: AVOTC_None_vless_22
   type: vless
   server: yh9.dtku41.xyz
   port: 443
@@ -348,7 +348,7 @@ proxy-groups:
   - AVOTC_United States_tuic_01
   - AVOTC_United States_hysteria_11
   - AVOTC_None_vless_21
-  - AVOTC_United States_vless_22
+  - AVOTC_None_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
   - AVOTC_None_vmess_31
@@ -372,7 +372,7 @@ proxy-groups:
   - AVOTC_United States_tuic_01
   - AVOTC_United States_hysteria_11
   - AVOTC_None_vless_21
-  - AVOTC_United States_vless_22
+  - AVOTC_None_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
   - AVOTC_None_vmess_31
@@ -396,7 +396,7 @@ proxy-groups:
   - AVOTC_United States_tuic_01
   - AVOTC_United States_hysteria_11
   - AVOTC_None_vless_21
-  - AVOTC_United States_vless_22
+  - AVOTC_None_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
   - AVOTC_None_vmess_31
