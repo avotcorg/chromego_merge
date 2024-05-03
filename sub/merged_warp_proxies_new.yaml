@@ -114,7 +114,7 @@ proxies:
     path: /argox-vl?ed=2048
     headers:
       host: giving-hide-provisions-corrected.trycloudflare.com
-- name: AVOTC_None_vmess_31
+- name: AVOTC_United States_vmess_31
   type: vmess
   server: yh4.dtku41.xyz
   port: 8080
@@ -351,7 +351,7 @@ proxy-groups:
   - AVOTC_United States_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
-  - AVOTC_None_vmess_31
+  - AVOTC_United States_vmess_31
   - AVOTC_United States_tuic_41
   - AVOTC_United States_vless_51
   - AVOTC_United States_ss_61
@@ -375,7 +375,7 @@ proxy-groups:
   - AVOTC_United States_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
-  - AVOTC_None_vmess_31
+  - AVOTC_United States_vmess_31
   - AVOTC_United States_tuic_41
   - AVOTC_United States_vless_51
   - AVOTC_United States_ss_61
@@ -399,7 +399,7 @@ proxy-groups:
   - AVOTC_United States_vless_22
   - AVOTC_None_vless_23
   - AVOTC_None_vless_24
-  - AVOTC_None_vmess_31
+  - AVOTC_United States_vmess_31
   - AVOTC_United States_tuic_41
   - AVOTC_United States_vless_51
   - AVOTC_United States_ss_61
