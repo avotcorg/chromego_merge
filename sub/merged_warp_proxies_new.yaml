@@ -1496,7 +1496,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: AVOTC_United States_vmess_098
+- name: AVOTC_None_vmess_098
   type: vmess
   server: russia.com
   port: 2086
@@ -1511,7 +1511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: AVOTC_United States_vmess_099
+- name: AVOTC_None_vmess_099
   type: vmess
   server: singapore.com
   port: 2086
@@ -2513,8 +2513,8 @@ proxy-groups:
   - AVOTC_United States_vmess_095
   - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
-  - AVOTC_United States_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_098
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
@@ -2676,8 +2676,8 @@ proxy-groups:
   - AVOTC_United States_vmess_095
   - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
-  - AVOTC_United States_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_098
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
@@ -2839,8 +2839,8 @@ proxy-groups:
   - AVOTC_United States_vmess_095
   - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
-  - AVOTC_United States_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_098
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
