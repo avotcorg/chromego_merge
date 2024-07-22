@@ -2461,36 +2461,36 @@ proxies:
   - h3
 - name: AVOTC_United States_hy2_0
   type: hysteria2
-  server: 173.234.31.99
-  port: 56549
+  server: hy2.3124845.xyz
+  port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: ''
-  skip-cert-verify: true
+  sni: hy2.3124845.xyz
+  skip-cert-verify: false
 - name: AVOTC_United States_hy2_1
   type: hysteria2
-  server: 173.234.31.99
-  port: 56549
+  server: hy2.3124845.xyz
+  port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: ''
-  skip-cert-verify: true
+  sni: hy2.3124845.xyz
+  skip-cert-verify: false
 - name: AVOTC_United States_hy2_2
   type: hysteria2
-  server: 173.234.31.99
-  port: 56549
+  server: hy2.3124845.xyz
+  port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: ''
-  skip-cert-verify: true
+  sni: hy2.3124845.xyz
+  skip-cert-verify: false
 - name: AVOTC_United States_hy2_3
   type: hysteria2
-  server: 173.234.31.99
-  port: 56549
+  server: hy2.3124845.xyz
+  port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: ''
-  skip-cert-verify: true
+  sni: hy2.3124845.xyz
+  skip-cert-verify: false
 - name: AVOTC_France_reality_0
   type: vless
   server: 62.210.101.0
