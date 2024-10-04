@@ -1511,7 +1511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.6016725.xyz
-- name: AVOTC_United States_vmess_099
+- name: AVOTC_None_vmess_099
   type: vmess
   server: singapore.com
   port: 2095
@@ -2951,7 +2951,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_None_vmess_194
+- name: AVOTC_United States_vmess_194
   type: vmess
   server: icook.tw
   port: 2096
@@ -2966,7 +2966,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_None_vmess_195
+- name: AVOTC_United States_vmess_195
   type: vmess
   server: ip.sb
   port: 2096
@@ -3011,7 +3011,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_None_vmess_198
+- name: AVOTC_United States_vmess_198
   type: vmess
   server: russia.com
   port: 2096
@@ -4481,7 +4481,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_295
+- name: AVOTC_None_vmess_295
   type: vmess
   server: ip.sb
   port: 2082
@@ -4511,7 +4511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_None_vmess_297
+- name: AVOTC_United States_vmess_297
   type: vmess
   server: malaysia.com
   port: 2082
@@ -4526,7 +4526,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_298
+- name: AVOTC_None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -4556,7 +4556,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_None_vmess_2100
+- name: AVOTC_United States_vmess_2100
   type: vmess
   server: skk.moe
   port: 2082
@@ -6056,7 +6056,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_399
+- name: AVOTC_None_vmess_399
   type: vmess
   server: singapore.com
   port: 2082
@@ -7586,7 +7586,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_4100
+- name: AVOTC_None_vmess_4100
   type: vmess
   server: skk.moe
   port: 2082
@@ -9011,7 +9011,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_594
+- name: AVOTC_None_vmess_594
   type: vmess
   server: icook.tw
   port: 2082
@@ -9041,7 +9041,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_None_vmess_596
+- name: AVOTC_United States_vmess_596
   type: vmess
   server: japan.com
   port: 2082
@@ -9071,7 +9071,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_United States_vmess_598
+- name: AVOTC_None_vmess_598
   type: vmess
   server: russia.com
   port: 2082
@@ -9101,7 +9101,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.6929198.xyz
-- name: AVOTC_None_vmess_5100
+- name: AVOTC_United States_vmess_5100
   type: vmess
   server: skk.moe
   port: 2082
@@ -10541,7 +10541,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_United States_vmess_695
+- name: AVOTC_None_vmess_695
   type: vmess
   server: ip.sb
   port: 2095
@@ -10556,7 +10556,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_United States_vmess_696
+- name: AVOTC_None_vmess_696
   type: vmess
   server: japan.com
   port: 2095
@@ -12056,7 +12056,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_United States_vmess_795
+- name: AVOTC_None_vmess_795
   type: vmess
   server: ip.sb
   port: 2096
@@ -12086,7 +12086,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_None_vmess_797
+- name: AVOTC_United States_vmess_797
   type: vmess
   server: malaysia.com
   port: 2096
@@ -12101,7 +12101,7 @@ proxies:
     path: www.dongtaiwang.com
     headers:
       Host: total-racial-eugene-index.trycloudflare.com
-- name: AVOTC_United States_vmess_798
+- name: AVOTC_None_vmess_798
   type: vmess
   server: russia.com
   port: 2096
@@ -13556,7 +13556,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_894
+- name: AVOTC_United States_vmess_894
   type: vmess
   server: icook.tw
   port: 2095
@@ -13571,7 +13571,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_895
+- name: AVOTC_United States_vmess_895
   type: vmess
   server: ip.sb
   port: 2095
@@ -13586,7 +13586,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_896
+- name: AVOTC_United States_vmess_896
   type: vmess
   server: japan.com
   port: 2095
@@ -13616,7 +13616,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_898
+- name: AVOTC_United States_vmess_898
   type: vmess
   server: russia.com
   port: 2095
@@ -13646,7 +13646,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_8100
+- name: AVOTC_United States_vmess_8100
   type: vmess
   server: skk.moe
   port: 2095
@@ -15071,7 +15071,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_994
+- name: AVOTC_United States_vmess_994
   type: vmess
   server: icook.tw
   port: 2095
@@ -15146,7 +15146,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_United States_vmess_999
+- name: AVOTC_None_vmess_999
   type: vmess
   server: singapore.com
   port: 2095
@@ -15161,7 +15161,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.8084726.xyz
-- name: AVOTC_None_vmess_9100
+- name: AVOTC_United States_vmess_9100
   type: vmess
   server: skk.moe
   port: 2095
@@ -15398,7 +15398,7 @@ proxy-groups:
   - AVOTC_United States_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
@@ -15494,11 +15494,11 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
   - AVOTC_United States_vmess_196
   - AVOTC_None_vmess_197
-  - AVOTC_None_vmess_198
+  - AVOTC_United States_vmess_198
   - AVOTC_None_vmess_199
   - AVOTC_United States_vmess_1100
   - AVOTC_None_vmess_1101
@@ -15596,12 +15596,12 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_United States_vmess_295
+  - AVOTC_None_vmess_295
   - AVOTC_None_vmess_296
-  - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_United States_vmess_297
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
-  - AVOTC_None_vmess_2100
+  - AVOTC_United States_vmess_2100
   - AVOTC_None_vmess_2101
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
@@ -15701,7 +15701,7 @@ proxy-groups:
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
   - AVOTC_None_vmess_398
-  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_399
   - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
@@ -15803,7 +15803,7 @@ proxy-groups:
   - AVOTC_United States_vmess_497
   - AVOTC_None_vmess_498
   - AVOTC_United States_vmess_499
-  - AVOTC_United States_vmess_4100
+  - AVOTC_None_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -15898,13 +15898,13 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
-  - AVOTC_None_vmess_596
+  - AVOTC_United States_vmess_596
   - AVOTC_None_vmess_597
-  - AVOTC_United States_vmess_598
+  - AVOTC_None_vmess_598
   - AVOTC_None_vmess_599
-  - AVOTC_None_vmess_5100
+  - AVOTC_United States_vmess_5100
   - AVOTC_None_vmess_5101
   - AVOTC_None_vmess_61
   - AVOTC_None_vmess_62
@@ -16000,8 +16000,8 @@ proxy-groups:
   - AVOTC_None_vmess_692
   - AVOTC_Canada_vmess_693
   - AVOTC_None_vmess_694
-  - AVOTC_United States_vmess_695
-  - AVOTC_United States_vmess_696
+  - AVOTC_None_vmess_695
+  - AVOTC_None_vmess_696
   - AVOTC_None_vmess_697
   - AVOTC_None_vmess_698
   - AVOTC_None_vmess_699
@@ -16101,10 +16101,10 @@ proxy-groups:
   - AVOTC_None_vmess_792
   - AVOTC_Canada_vmess_793
   - AVOTC_None_vmess_794
-  - AVOTC_United States_vmess_795
+  - AVOTC_None_vmess_795
   - AVOTC_None_vmess_796
-  - AVOTC_None_vmess_797
-  - AVOTC_United States_vmess_798
+  - AVOTC_United States_vmess_797
+  - AVOTC_None_vmess_798
   - AVOTC_None_vmess_799
   - AVOTC_None_vmess_7100
   - AVOTC_None_vmess_7101
@@ -16201,13 +16201,13 @@ proxy-groups:
   - AVOTC_United States_vmess_891
   - AVOTC_None_vmess_892
   - AVOTC_Canada_vmess_893
-  - AVOTC_None_vmess_894
-  - AVOTC_None_vmess_895
-  - AVOTC_None_vmess_896
+  - AVOTC_United States_vmess_894
+  - AVOTC_United States_vmess_895
+  - AVOTC_United States_vmess_896
   - AVOTC_None_vmess_897
-  - AVOTC_None_vmess_898
+  - AVOTC_United States_vmess_898
   - AVOTC_None_vmess_899
-  - AVOTC_None_vmess_8100
+  - AVOTC_United States_vmess_8100
   - AVOTC_None_vmess_8101
   - AVOTC_None_vmess_91
   - AVOTC_None_vmess_92
@@ -16302,13 +16302,13 @@ proxy-groups:
   - AVOTC_United States_vmess_991
   - AVOTC_None_vmess_992
   - AVOTC_Canada_vmess_993
-  - AVOTC_None_vmess_994
+  - AVOTC_United States_vmess_994
   - AVOTC_None_vmess_995
   - AVOTC_None_vmess_996
   - AVOTC_None_vmess_997
   - AVOTC_United States_vmess_998
-  - AVOTC_United States_vmess_999
-  - AVOTC_None_vmess_9100
+  - AVOTC_None_vmess_999
+  - AVOTC_United States_vmess_9100
   - AVOTC_None_vmess_9101
   - AVOTC_United States_hy_0
   - AVOTC_United States_hy_1
@@ -16419,7 +16419,7 @@ proxy-groups:
   - AVOTC_United States_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
@@ -16515,11 +16515,11 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
   - AVOTC_United States_vmess_196
   - AVOTC_None_vmess_197
-  - AVOTC_None_vmess_198
+  - AVOTC_United States_vmess_198
   - AVOTC_None_vmess_199
   - AVOTC_United States_vmess_1100
   - AVOTC_None_vmess_1101
@@ -16617,12 +16617,12 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_United States_vmess_295
+  - AVOTC_None_vmess_295
   - AVOTC_None_vmess_296
-  - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_United States_vmess_297
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
-  - AVOTC_None_vmess_2100
+  - AVOTC_United States_vmess_2100
   - AVOTC_None_vmess_2101
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
@@ -16722,7 +16722,7 @@ proxy-groups:
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
   - AVOTC_None_vmess_398
-  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_399
   - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
@@ -16824,7 +16824,7 @@ proxy-groups:
   - AVOTC_United States_vmess_497
   - AVOTC_None_vmess_498
   - AVOTC_United States_vmess_499
-  - AVOTC_United States_vmess_4100
+  - AVOTC_None_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -16919,13 +16919,13 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
-  - AVOTC_None_vmess_596
+  - AVOTC_United States_vmess_596
   - AVOTC_None_vmess_597
-  - AVOTC_United States_vmess_598
+  - AVOTC_None_vmess_598
   - AVOTC_None_vmess_599
-  - AVOTC_None_vmess_5100
+  - AVOTC_United States_vmess_5100
   - AVOTC_None_vmess_5101
   - AVOTC_None_vmess_61
   - AVOTC_None_vmess_62
@@ -17021,8 +17021,8 @@ proxy-groups:
   - AVOTC_None_vmess_692
   - AVOTC_Canada_vmess_693
   - AVOTC_None_vmess_694
-  - AVOTC_United States_vmess_695
-  - AVOTC_United States_vmess_696
+  - AVOTC_None_vmess_695
+  - AVOTC_None_vmess_696
   - AVOTC_None_vmess_697
   - AVOTC_None_vmess_698
   - AVOTC_None_vmess_699
@@ -17122,10 +17122,10 @@ proxy-groups:
   - AVOTC_None_vmess_792
   - AVOTC_Canada_vmess_793
   - AVOTC_None_vmess_794
-  - AVOTC_United States_vmess_795
+  - AVOTC_None_vmess_795
   - AVOTC_None_vmess_796
-  - AVOTC_None_vmess_797
-  - AVOTC_United States_vmess_798
+  - AVOTC_United States_vmess_797
+  - AVOTC_None_vmess_798
   - AVOTC_None_vmess_799
   - AVOTC_None_vmess_7100
   - AVOTC_None_vmess_7101
@@ -17222,13 +17222,13 @@ proxy-groups:
   - AVOTC_United States_vmess_891
   - AVOTC_None_vmess_892
   - AVOTC_Canada_vmess_893
-  - AVOTC_None_vmess_894
-  - AVOTC_None_vmess_895
-  - AVOTC_None_vmess_896
+  - AVOTC_United States_vmess_894
+  - AVOTC_United States_vmess_895
+  - AVOTC_United States_vmess_896
   - AVOTC_None_vmess_897
-  - AVOTC_None_vmess_898
+  - AVOTC_United States_vmess_898
   - AVOTC_None_vmess_899
-  - AVOTC_None_vmess_8100
+  - AVOTC_United States_vmess_8100
   - AVOTC_None_vmess_8101
   - AVOTC_None_vmess_91
   - AVOTC_None_vmess_92
@@ -17323,13 +17323,13 @@ proxy-groups:
   - AVOTC_United States_vmess_991
   - AVOTC_None_vmess_992
   - AVOTC_Canada_vmess_993
-  - AVOTC_None_vmess_994
+  - AVOTC_United States_vmess_994
   - AVOTC_None_vmess_995
   - AVOTC_None_vmess_996
   - AVOTC_None_vmess_997
   - AVOTC_United States_vmess_998
-  - AVOTC_United States_vmess_999
-  - AVOTC_None_vmess_9100
+  - AVOTC_None_vmess_999
+  - AVOTC_United States_vmess_9100
   - AVOTC_None_vmess_9101
   - AVOTC_United States_hy_0
   - AVOTC_United States_hy_1
@@ -17440,7 +17440,7 @@ proxy-groups:
   - AVOTC_United States_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
-  - AVOTC_United States_vmess_099
+  - AVOTC_None_vmess_099
   - AVOTC_None_vmess_0100
   - AVOTC_None_vmess_0101
   - AVOTC_None_vmess_11
@@ -17536,11 +17536,11 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
   - AVOTC_United States_vmess_196
   - AVOTC_None_vmess_197
-  - AVOTC_None_vmess_198
+  - AVOTC_United States_vmess_198
   - AVOTC_None_vmess_199
   - AVOTC_United States_vmess_1100
   - AVOTC_None_vmess_1101
@@ -17638,12 +17638,12 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_United States_vmess_295
+  - AVOTC_None_vmess_295
   - AVOTC_None_vmess_296
-  - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_United States_vmess_297
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
-  - AVOTC_None_vmess_2100
+  - AVOTC_United States_vmess_2100
   - AVOTC_None_vmess_2101
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
@@ -17743,7 +17743,7 @@ proxy-groups:
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
   - AVOTC_None_vmess_398
-  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_399
   - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
@@ -17845,7 +17845,7 @@ proxy-groups:
   - AVOTC_United States_vmess_497
   - AVOTC_None_vmess_498
   - AVOTC_United States_vmess_499
-  - AVOTC_United States_vmess_4100
+  - AVOTC_None_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -17940,13 +17940,13 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
-  - AVOTC_None_vmess_596
+  - AVOTC_United States_vmess_596
   - AVOTC_None_vmess_597
-  - AVOTC_United States_vmess_598
+  - AVOTC_None_vmess_598
   - AVOTC_None_vmess_599
-  - AVOTC_None_vmess_5100
+  - AVOTC_United States_vmess_5100
   - AVOTC_None_vmess_5101
   - AVOTC_None_vmess_61
   - AVOTC_None_vmess_62
@@ -18042,8 +18042,8 @@ proxy-groups:
   - AVOTC_None_vmess_692
   - AVOTC_Canada_vmess_693
   - AVOTC_None_vmess_694
-  - AVOTC_United States_vmess_695
-  - AVOTC_United States_vmess_696
+  - AVOTC_None_vmess_695
+  - AVOTC_None_vmess_696
   - AVOTC_None_vmess_697
   - AVOTC_None_vmess_698
   - AVOTC_None_vmess_699
@@ -18143,10 +18143,10 @@ proxy-groups:
   - AVOTC_None_vmess_792
   - AVOTC_Canada_vmess_793
   - AVOTC_None_vmess_794
-  - AVOTC_United States_vmess_795
+  - AVOTC_None_vmess_795
   - AVOTC_None_vmess_796
-  - AVOTC_None_vmess_797
-  - AVOTC_United States_vmess_798
+  - AVOTC_United States_vmess_797
+  - AVOTC_None_vmess_798
   - AVOTC_None_vmess_799
   - AVOTC_None_vmess_7100
   - AVOTC_None_vmess_7101
@@ -18243,13 +18243,13 @@ proxy-groups:
   - AVOTC_United States_vmess_891
   - AVOTC_None_vmess_892
   - AVOTC_Canada_vmess_893
-  - AVOTC_None_vmess_894
-  - AVOTC_None_vmess_895
-  - AVOTC_None_vmess_896
+  - AVOTC_United States_vmess_894
+  - AVOTC_United States_vmess_895
+  - AVOTC_United States_vmess_896
   - AVOTC_None_vmess_897
-  - AVOTC_None_vmess_898
+  - AVOTC_United States_vmess_898
   - AVOTC_None_vmess_899
-  - AVOTC_None_vmess_8100
+  - AVOTC_United States_vmess_8100
   - AVOTC_None_vmess_8101
   - AVOTC_None_vmess_91
   - AVOTC_None_vmess_92
@@ -18344,13 +18344,13 @@ proxy-groups:
   - AVOTC_United States_vmess_991
   - AVOTC_None_vmess_992
   - AVOTC_Canada_vmess_993
-  - AVOTC_None_vmess_994
+  - AVOTC_United States_vmess_994
   - AVOTC_None_vmess_995
   - AVOTC_None_vmess_996
   - AVOTC_None_vmess_997
   - AVOTC_United States_vmess_998
-  - AVOTC_United States_vmess_999
-  - AVOTC_None_vmess_9100
+  - AVOTC_None_vmess_999
+  - AVOTC_United States_vmess_9100
   - AVOTC_None_vmess_9101
   - AVOTC_United States_hy_0
   - AVOTC_United States_hy_1
