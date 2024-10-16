@@ -1466,7 +1466,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip10.6016725.xyz
-- name: AVOTC_United States_vmess_096
+- name: AVOTC_None_vmess_096
   type: vmess
   server: japan.com
   port: 2095
@@ -2951,7 +2951,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip10.6016725.xyz
-- name: AVOTC_None_vmess_194
+- name: AVOTC_United States_vmess_194
   type: vmess
   server: icook.tw
   port: 2095
@@ -2966,7 +2966,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip10.6016725.xyz
-- name: AVOTC_None_vmess_195
+- name: AVOTC_United States_vmess_195
   type: vmess
   server: ip.sb
   port: 2095
@@ -2981,7 +2981,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip10.6016725.xyz
-- name: AVOTC_United States_vmess_196
+- name: AVOTC_None_vmess_196
   type: vmess
   server: japan.com
   port: 2095
@@ -2996,7 +2996,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip10.6016725.xyz
-- name: AVOTC_None_vmess_197
+- name: AVOTC_United States_vmess_197
   type: vmess
   server: malaysia.com
   port: 2095
@@ -4481,7 +4481,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_295
+- name: AVOTC_United States_vmess_295
   type: vmess
   server: ip.sb
   port: 2082
@@ -4526,7 +4526,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_United States_vmess_298
+- name: AVOTC_None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -6041,7 +6041,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_398
+- name: AVOTC_United States_vmess_398
   type: vmess
   server: russia.com
   port: 2082
@@ -6056,7 +6056,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_399
+- name: AVOTC_United States_vmess_399
   type: vmess
   server: singapore.com
   port: 2082
@@ -6071,7 +6071,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_United States_vmess_3100
+- name: AVOTC_None_vmess_3100
   type: vmess
   server: skk.moe
   port: 2082
@@ -7511,7 +7511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_495
+- name: AVOTC_United States_vmess_495
   type: vmess
   server: ip.sb
   port: 2082
@@ -7556,7 +7556,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_498
+- name: AVOTC_United States_vmess_498
   type: vmess
   server: russia.com
   port: 2082
@@ -7571,7 +7571,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_United States_vmess_499
+- name: AVOTC_None_vmess_499
   type: vmess
   server: singapore.com
   port: 2082
@@ -7586,7 +7586,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_None_vmess_4100
+- name: AVOTC_United States_vmess_4100
   type: vmess
   server: skk.moe
   port: 2082
@@ -9011,7 +9011,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_United States_vmess_594
+- name: AVOTC_None_vmess_594
   type: vmess
   server: icook.tw
   port: 2082
@@ -9086,7 +9086,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_United States_vmess_599
+- name: AVOTC_None_vmess_599
   type: vmess
   server: singapore.com
   port: 2082
@@ -9131,55 +9131,67 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip15.6929198.xyz
-- name: AVOTC_Russia_hysteria_61
-  type: hysteria
+- name: AVOTC_Russia_vless_61
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 11 Mbps
-  down: 55 Mbps
-- name: AVOTC_Russia_hysteria_71
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: AVOTC_Russia_vless_71
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 11 Mbps
-  down: 55 Mbps
-- name: AVOTC_Russia_hysteria_81
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: AVOTC_Russia_vless_81
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 11 Mbps
-  down: 55 Mbps
-- name: AVOTC_Russia_hysteria_91
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: AVOTC_Russia_vless_91
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 11 Mbps
-  down: 55 Mbps
-- name: AVOTC_Russia_hy_0
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: AVOTC_France_hy_0
   type: hysteria
-  server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  server: 62.210.8.63
+  port: 2345
+  ports: 2345
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -9379,7 +9391,7 @@ proxy-groups:
   - AVOTC_Canada_vmess_093
   - AVOTC_None_vmess_094
   - AVOTC_United States_vmess_095
-  - AVOTC_United States_vmess_096
+  - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
   - AVOTC_None_vmess_099
@@ -9478,10 +9490,10 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
-  - AVOTC_United States_vmess_196
-  - AVOTC_None_vmess_197
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
+  - AVOTC_None_vmess_196
+  - AVOTC_United States_vmess_197
   - AVOTC_None_vmess_198
   - AVOTC_United States_vmess_199
   - AVOTC_None_vmess_1100
@@ -9580,10 +9592,10 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_None_vmess_295
+  - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_United States_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
@@ -9684,9 +9696,9 @@ proxy-groups:
   - AVOTC_None_vmess_395
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
-  - AVOTC_None_vmess_398
-  - AVOTC_None_vmess_399
-  - AVOTC_United States_vmess_3100
+  - AVOTC_United States_vmess_398
+  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
   - AVOTC_None_vmess_42
@@ -9782,12 +9794,12 @@ proxy-groups:
   - AVOTC_None_vmess_492
   - AVOTC_Canada_vmess_493
   - AVOTC_None_vmess_494
-  - AVOTC_None_vmess_495
+  - AVOTC_United States_vmess_495
   - AVOTC_None_vmess_496
   - AVOTC_None_vmess_497
-  - AVOTC_None_vmess_498
-  - AVOTC_United States_vmess_499
-  - AVOTC_None_vmess_4100
+  - AVOTC_United States_vmess_498
+  - AVOTC_None_vmess_499
+  - AVOTC_United States_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -9882,19 +9894,19 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
   - AVOTC_None_vmess_596
   - AVOTC_United States_vmess_597
   - AVOTC_United States_vmess_598
-  - AVOTC_United States_vmess_599
+  - AVOTC_None_vmess_599
   - AVOTC_None_vmess_5100
   - AVOTC_None_vmess_5101
-  - AVOTC_Russia_hysteria_61
-  - AVOTC_Russia_hysteria_71
-  - AVOTC_Russia_hysteria_81
-  - AVOTC_Russia_hysteria_91
-  - AVOTC_Russia_hy_0
+  - AVOTC_Russia_vless_61
+  - AVOTC_Russia_vless_71
+  - AVOTC_Russia_vless_81
+  - AVOTC_Russia_vless_91
+  - AVOTC_France_hy_0
   - AVOTC_Russia_hy_1
   - AVOTC_Russia_hy_2
   - AVOTC_Russia_hy_3
@@ -10000,7 +10012,7 @@ proxy-groups:
   - AVOTC_Canada_vmess_093
   - AVOTC_None_vmess_094
   - AVOTC_United States_vmess_095
-  - AVOTC_United States_vmess_096
+  - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
   - AVOTC_None_vmess_099
@@ -10099,10 +10111,10 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
-  - AVOTC_United States_vmess_196
-  - AVOTC_None_vmess_197
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
+  - AVOTC_None_vmess_196
+  - AVOTC_United States_vmess_197
   - AVOTC_None_vmess_198
   - AVOTC_United States_vmess_199
   - AVOTC_None_vmess_1100
@@ -10201,10 +10213,10 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_None_vmess_295
+  - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_United States_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
@@ -10305,9 +10317,9 @@ proxy-groups:
   - AVOTC_None_vmess_395
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
-  - AVOTC_None_vmess_398
-  - AVOTC_None_vmess_399
-  - AVOTC_United States_vmess_3100
+  - AVOTC_United States_vmess_398
+  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
   - AVOTC_None_vmess_42
@@ -10403,12 +10415,12 @@ proxy-groups:
   - AVOTC_None_vmess_492
   - AVOTC_Canada_vmess_493
   - AVOTC_None_vmess_494
-  - AVOTC_None_vmess_495
+  - AVOTC_United States_vmess_495
   - AVOTC_None_vmess_496
   - AVOTC_None_vmess_497
-  - AVOTC_None_vmess_498
-  - AVOTC_United States_vmess_499
-  - AVOTC_None_vmess_4100
+  - AVOTC_United States_vmess_498
+  - AVOTC_None_vmess_499
+  - AVOTC_United States_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -10503,19 +10515,19 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
   - AVOTC_None_vmess_596
   - AVOTC_United States_vmess_597
   - AVOTC_United States_vmess_598
-  - AVOTC_United States_vmess_599
+  - AVOTC_None_vmess_599
   - AVOTC_None_vmess_5100
   - AVOTC_None_vmess_5101
-  - AVOTC_Russia_hysteria_61
-  - AVOTC_Russia_hysteria_71
-  - AVOTC_Russia_hysteria_81
-  - AVOTC_Russia_hysteria_91
-  - AVOTC_Russia_hy_0
+  - AVOTC_Russia_vless_61
+  - AVOTC_Russia_vless_71
+  - AVOTC_Russia_vless_81
+  - AVOTC_Russia_vless_91
+  - AVOTC_France_hy_0
   - AVOTC_Russia_hy_1
   - AVOTC_Russia_hy_2
   - AVOTC_Russia_hy_3
@@ -10621,7 +10633,7 @@ proxy-groups:
   - AVOTC_Canada_vmess_093
   - AVOTC_None_vmess_094
   - AVOTC_United States_vmess_095
-  - AVOTC_United States_vmess_096
+  - AVOTC_None_vmess_096
   - AVOTC_None_vmess_097
   - AVOTC_None_vmess_098
   - AVOTC_None_vmess_099
@@ -10720,10 +10732,10 @@ proxy-groups:
   - AVOTC_United States_vmess_191
   - AVOTC_None_vmess_192
   - AVOTC_Canada_vmess_193
-  - AVOTC_None_vmess_194
-  - AVOTC_None_vmess_195
-  - AVOTC_United States_vmess_196
-  - AVOTC_None_vmess_197
+  - AVOTC_United States_vmess_194
+  - AVOTC_United States_vmess_195
+  - AVOTC_None_vmess_196
+  - AVOTC_United States_vmess_197
   - AVOTC_None_vmess_198
   - AVOTC_United States_vmess_199
   - AVOTC_None_vmess_1100
@@ -10822,10 +10834,10 @@ proxy-groups:
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
   - AVOTC_None_vmess_294
-  - AVOTC_None_vmess_295
+  - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_United States_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
@@ -10926,9 +10938,9 @@ proxy-groups:
   - AVOTC_None_vmess_395
   - AVOTC_None_vmess_396
   - AVOTC_None_vmess_397
-  - AVOTC_None_vmess_398
-  - AVOTC_None_vmess_399
-  - AVOTC_United States_vmess_3100
+  - AVOTC_United States_vmess_398
+  - AVOTC_United States_vmess_399
+  - AVOTC_None_vmess_3100
   - AVOTC_None_vmess_3101
   - AVOTC_None_vmess_41
   - AVOTC_None_vmess_42
@@ -11024,12 +11036,12 @@ proxy-groups:
   - AVOTC_None_vmess_492
   - AVOTC_Canada_vmess_493
   - AVOTC_None_vmess_494
-  - AVOTC_None_vmess_495
+  - AVOTC_United States_vmess_495
   - AVOTC_None_vmess_496
   - AVOTC_None_vmess_497
-  - AVOTC_None_vmess_498
-  - AVOTC_United States_vmess_499
-  - AVOTC_None_vmess_4100
+  - AVOTC_United States_vmess_498
+  - AVOTC_None_vmess_499
+  - AVOTC_United States_vmess_4100
   - AVOTC_None_vmess_4101
   - AVOTC_None_vmess_51
   - AVOTC_None_vmess_52
@@ -11124,19 +11136,19 @@ proxy-groups:
   - AVOTC_United States_vmess_591
   - AVOTC_None_vmess_592
   - AVOTC_Canada_vmess_593
-  - AVOTC_United States_vmess_594
+  - AVOTC_None_vmess_594
   - AVOTC_None_vmess_595
   - AVOTC_None_vmess_596
   - AVOTC_United States_vmess_597
   - AVOTC_United States_vmess_598
-  - AVOTC_United States_vmess_599
+  - AVOTC_None_vmess_599
   - AVOTC_None_vmess_5100
   - AVOTC_None_vmess_5101
-  - AVOTC_Russia_hysteria_61
-  - AVOTC_Russia_hysteria_71
-  - AVOTC_Russia_hysteria_81
-  - AVOTC_Russia_hysteria_91
-  - AVOTC_Russia_hy_0
+  - AVOTC_Russia_vless_61
+  - AVOTC_Russia_vless_71
+  - AVOTC_Russia_vless_81
+  - AVOTC_Russia_vless_91
+  - AVOTC_France_hy_0
   - AVOTC_Russia_hy_1
   - AVOTC_Russia_hy_2
   - AVOTC_Russia_hy_3
