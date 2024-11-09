@@ -3083,7 +3083,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip29.6929198.xyz
-- name: AVOTC_United States_vmess_298
+- name: AVOTC_None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -3726,7 +3726,7 @@ proxy-groups:
   - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
@@ -3959,7 +3959,7 @@ proxy-groups:
   - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
@@ -4192,7 +4192,7 @@ proxy-groups:
   - AVOTC_United States_vmess_295
   - AVOTC_None_vmess_296
   - AVOTC_None_vmess_297
-  - AVOTC_United States_vmess_298
+  - AVOTC_None_vmess_298
   - AVOTC_None_vmess_299
   - AVOTC_None_vmess_2100
   - AVOTC_None_vmess_2101
