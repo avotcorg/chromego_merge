@@ -16492,7 +16492,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: AVOTC_United States_vmess_294
+- name: AVOTC_None_vmess_294
   type: vmess
   server: icook.tw
   port: 2082
@@ -16522,7 +16522,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: AVOTC_None_vmess_296
+- name: AVOTC_United States_vmess_296
   type: vmess
   server: japan.com
   port: 2082
@@ -16582,7 +16582,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: AVOTC_United States_vmess_2100
+- name: AVOTC_None_vmess_2100
   type: vmess
   server: skk.moe
   port: 2082
@@ -16597,7 +16597,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: AVOTC_United States_vmess_2101
+- name: AVOTC_None_vmess_2101
   type: vmess
   server: www.visa.com
   port: 2082
@@ -62851,14 +62851,14 @@ proxy-groups:
   - AVOTC_United States_vmess_291
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
-  - AVOTC_United States_vmess_294
+  - AVOTC_None_vmess_294
   - AVOTC_United States_vmess_295
-  - AVOTC_None_vmess_296
+  - AVOTC_United States_vmess_296
   - AVOTC_None_vmess_297
   - AVOTC_United States_vmess_298
   - AVOTC_None_vmess_299
-  - AVOTC_United States_vmess_2100
-  - AVOTC_United States_vmess_2101
+  - AVOTC_None_vmess_2100
+  - AVOTC_None_vmess_2101
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
   - AVOTC_None_vmess_33
@@ -66974,14 +66974,14 @@ proxy-groups:
   - AVOTC_United States_vmess_291
   - AVOTC_None_vmess_292
   - AVOTC_Canada_vmess_293
-  - AVOTC_United States_vmess_294
+  - AVOTC_None_vmess_294
   - AVOTC_United States_vmess_295
-  - AVOTC_None_vmess_296
+  - AVOTC_United States_vmess_296
   - AVOTC_None_vmess_297
   - AVOTC_United States_vmess_298
   - AVOTC_None_vmess_299
-  - AVOTC_United States_vmess_2100
-  - AVOTC_United States_vmess_2101
+  - AVOTC_None_vmess_2100
+  - AVOTC_None_vmess_2101
   - AVOTC_None_vmess_31
   - AVOTC_None_vmess_32
   - AVOTC_None_vmess_33
